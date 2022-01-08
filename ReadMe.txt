@@ -48,7 +48,7 @@ data and the folder where the model is saved.
 
 
 ***ALERT***
-This is an unfinished work. It needs a lot of work and features to be added in
+This is an unfinished work. It needs a bit of work and features to be added in
 order to fulfill its ultimate goal of detecting coastlines. In summary, the goal
 is to use image semantic segementation to find coastline.
 ***ALERT***
